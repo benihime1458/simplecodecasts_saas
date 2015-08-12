@@ -1,0 +1,39 @@
+.job-title-icon {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    background-color: #EAF8FD;
+    color: #00bf8f ;
+    text-align: center;
+}
+
+.well.profile-block {
+    color: #fff;
+    background-color: #00bf8f ;
+    border-color: #4cae4c;
+    h3 {
+        margin-top: 0;
+    }
+}
+
+.jumbotron {
+    padding-top: 1%;
+    text-align: center;
+}
+
+.avatar {
+    margin-bottom: 2%;
+}
+
+img  {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 8px solid white;
+}
+
+h2 {
+    text-align: center;
+}
